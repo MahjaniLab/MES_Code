@@ -1,0 +1,29 @@
+behav_adhd	ADHD
+behav_conduct	Conduct Disorder
+behav_intermitt_explos	Intermittent Explosive Disorder
+behav_odd	Oppositional Defiant Disorder
+dev_id	Intellectual disability
+dev_lang_dis	Language delay/disorder
+dev_ld	Learning disability
+dev_motor	Motor delay/disorder
+dev_mutism	Mutism 
+dev_soc_prag	Social Communication Disorder
+dev_speech	Speech articulation problems
+eating_probs	Problems with eating foods
+eating_disorder	Eating Disorder
+encopres	Encopresis
+enures	Enuresis
+feeding_dx	Feeding/eating problems
+mood_bipol	Bipolar Disorder
+mood_dep	Depression/dysthymia
+mood_dmd	Disruptive Mood Dysregulation Disorder
+mood_hoard	Hoarding
+mood_ocd	OCD
+mood_sep_anx	Separation Anxiety
+mood_soc_anx	Social Anxiety Disorder/Social Phobia
+neuro_sz	Seizure disorder/epilepsy
+pers_dis	Personality Disorder
+schiz	Schizophrenia/psychosis/schizoaffective disorder
+sleep_dx	Diagnosed sleep disorder
+sleep_probs	Non-diagnosed sleep problems
+tics	Tourette Syndrome/Tic Disorder

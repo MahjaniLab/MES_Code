@@ -1,0 +1,41 @@
+DESC	QUES	SWAP
+Talk in short phrases	q01_phrases	y
+Conversation	q02_conversation	n
+Odd phrases or repetitions	q03_odd_phrase	y
+Socially imappropriate questions or statements	q04_inappropriate_question	y
+Mixing up pronouns	q05_pronouns_mixed	y
+Made up words or odd metaphors	q06_invented_words	y
+Repeating or insisting on repeating things	q07_same_over	y
+Insisting on very particular way or order or ritual	q08_particular_way	y
+Facial expression appropriate to particular situation	q09_expressions_appropriate	n
+Using parent's hand like tool or as if part of own body	q10_hand_tool	y
+Preoccupation with odd interests	q11_interest_preoccupy	y
+Interested in part of toys or object rather than whole	q12_parts_object	y
+Unusually intense but otherwise normal interests	q13_interests_intensity	y
+Interested in sight, feel, sound, taste or smell of things or people	q14_senses	y
+Mannerisms or odd ways of moving hands or fingers	q15_odd_ways	y
+Complicated movements of the whole body	q16_complicated_movements	y
+Delibarate self-injuring	q17_injured_deliberately	y
+Carrying around objects other than soft toy or blanket	q18_objects_carry	y
+Having any particular friends or best friend	q19_best_friend	n
+Talking to parent just to be friendly rather than to get something	q20_talk_friendly	n
+Spontaneously copying what others are doing	q21_copy_you	n
+Spontaneously pointing at things to show them	q22_point_things	n
+Gestures other than pointing or puling hand	q23_gestures_wanted	n
+Nodding head to indicate yes	q24_nod_head	n
+Shaking head to indicate no	q25_shake_head	n
+Looking directly in the face	q26_look_directly	n
+Smiling back when smiled at	q27_smile_back	n
+Showing things to engage parent's attention	q28_things_interested	n
+Offering to share things other than food	q29_share	n
+Wanting parent to join in enjoyment of something	q30_join_enjoyment	n
+Trying to comfort sad or hurt parent	q31_comfort	n
+Looking at or using words or gestures to get parent's attention	q32_help_attention	n
+Normal range of facial expressions	q33_range_expressions	n
+Spontaneously joining in or trying to copy actions in social games	q34_copy_actions	n
+Playing pretend or make-believe games	q35_make_believe	n
+Interested in other same-age children	q36_same_age	n
+Positively responding when approached by another child	q37_respond_positively	n
+Attentive when talked to without being addressed by name	q38_pay_attention	n
+Imaginative pretend games with another child	q39_imaginative_games	n
+Cooperative in group games	q40_cooperatively_games	n
