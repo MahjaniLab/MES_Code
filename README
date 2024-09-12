@@ -5,7 +5,7 @@ Folder descriptions:
 1_MES_screen: Code and files related to the initial screen of MES genes (Figure 2 Steps 1-4). Individual-level data is not included.
 
 2_MES_non_neuro : Code/commands for extracting deleterious variants in the three non-neuro cohorts. This folder includes code
-    for the equilibrium test.
+    for the equilibrium test and the null simulation of MES gene expectations.
 
 3_MES_synonymous : Combination of code and files for the equivalence of 1_MES_screen and 2_MES_non_neuro for synonymous variants. Only
     code with changes are included. Other code and commands are otherwise unchanged.
