@@ -1,5 +1,6 @@
-Moderate effect size genes project
+Identification of moderate effect size genes in autism spectrum disorder through a novel gene pairing approach
 Author: Madison Caballero
+Preprint: https://doi.org/10.1101/2024.04.03.24305278
 
 Folder descriptions:
 1_MES_screen: Code and files related to the initial screen of MES genes (Figure 2 Steps 1-4). Individual-level data is not included.
@@ -13,3 +14,9 @@ Folder descriptions:
 4_Expression : Code and results for gene expression analyses. 
 
 5_Phenotypes : Code and results for phenotype analyses.
+
+Packages and versions used:
+R (v4.2.0)
+stringr (v1.5.1)
+tidyverse (v1.3.1)
+rapport (v1.1)
